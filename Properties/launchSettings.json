@@ -1,0 +1,30 @@
+{
+  "profiles": {
+    "MagazinProiecte": {
+      "commandName": "Project",
+      "commandLineArgs": "ConnectionStrings:DefaultConnection\": \"Data Source=DESKTOP-VH96IDD;Initial Catalog=MAGAZINProiect;Integrated Security=True;MultipleActiveResultSets=True\"\r\n}",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ConnectionStrings__DefaultConnection": "Data Source=DESKTOP-VH96IDD;Initial Catalog=MAGAZINProiect;Integrated Security=True;MultipleActiveResultSets=True"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7036;http://localhost:5045"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63101",
+      "sslPort": 44385
+    }
+  }
+}

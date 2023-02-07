@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MagazinProiecte.Models.OfertaModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.DataLansare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataLichidare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DenumireOferte)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descriere)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataEveniment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tags)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.DataLansare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataLichidare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DenumireOferte)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descriere)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataEveniment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tags)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.IDOferta }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.IDOferta }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.IDOferta })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

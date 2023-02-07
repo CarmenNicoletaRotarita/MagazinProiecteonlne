@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MagazinProiecte
+build_property.RootNamespace = MagazinProiecte
+build_property.ProjectDir = C:\Users\Nico\Desktop\Aplicatii SQL\Aplicatii Proiect.Net\MagazinProiecte\MagazinProiecte\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Nico\Desktop\Aplicatii SQL\Aplicatii Proiect.Net\MagazinProiecte\MagazinProiecte
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Carte/CartiDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVcQ2FydGlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Carte/CreateCarte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVcQ3JlYXRlQ2FydGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Carte/DeleteCarte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVcRGVsZXRlQ2FydGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Carte/EditCarti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVcRWRpdENhcnRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Carte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Client/ClientiDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENsaWVudGlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Client/CreateClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZUNsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Client/DeleteClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERlbGV0ZUNsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Client/EditClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXRDbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Edituri/CreateEdituri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdHVyaVxDcmVhdGVFZGl0dXJpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Edituri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdHVyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Oferta/CreateOferte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXENyZWF0ZU9mZXJ0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Oferta/DeleteOferte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXERlbGV0ZU9mZXJ0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Oferta/EditOferta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXEVkaXRPZmVydGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Oferta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Oferta/OferteDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhXE9mZXJ0ZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nico/Desktop/Aplicatii SQL/Aplicatii Proiect.Net/MagazinProiecte/MagazinProiecte/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rgs2wm2tcq

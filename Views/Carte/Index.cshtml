@@ -1,0 +1,62 @@
+﻿@model IEnumerable<MagazinProiecte.Models.CarteModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.Titlu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descriere)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pret)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataPublicare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InStoc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.Titlu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descriere)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pret)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataPublicare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InStoc)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.IDCarte }) |
+                @Html.ActionLink("Details", "Details", new { id=item.IDCarte }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.IDCarte })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
